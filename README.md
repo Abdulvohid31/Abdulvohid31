@@ -15,5 +15,3 @@
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 - ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 - ![ShadCN](https://img.shields.io/badge/-ShadCN-000000?style=flat&logo=shadow-cljs&logoColor=white)
-
-- [PORTFOLIO](https://portfolio-puce-eight-99.vercel.app/)
